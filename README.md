@@ -1,12 +1,11 @@
-# React + Vite
+# AI Resume Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **AI Resume Builder**! This project allows users to easily create personalized and optimized resumes using artificial intelligence. The app analyzes user input, such as skills, job history, and job preferences, and generates a tailored resume ready to share with potential employers.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **AI-Powered Resume Generation**: Automatically generates a customized resume based on the user's input and job descriptions.
+- **User-Friendly Interface**: A simple and clean interface for entering job history, skills, and other details.
+- **Customizable Templates**: Choose from different resume templates to best reflect your professional style.
+- **Real-Time Editing**: See the resume update in real-time as you input your details.
+- **Download & Share**: Export your resume in PDF format for easy sharing.
